@@ -161,6 +161,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@tsconfig/next@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@tsconfig/next/-/next-1.0.3.tgz#b7a53b24ff898ac79f5b3758fdf9b733f0bfe5b1"
+  integrity sha512-GbRRYrVMVHGwZLwCdaksOhAVPcYgUZGP3UhGnIxW54IpTynMY72bWWlUm1Jwh6BcJ66boYeQENpZ5CsEpltUnQ==
+
 "@types/json5@^0.0.29":
   version "0.0.29"
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
